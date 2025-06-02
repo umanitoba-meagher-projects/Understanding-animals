@@ -40,7 +40,7 @@ This file tracks tasks and priorities for AV's week of May 26-30, organized by p
 #### Jenelle Support & Training 🔄
 - [ ] Help Jenelle complete Linux computer setup
 - [ ] Explain git workflow for collaborative development and support Jenelle in using Git + GitHub
-  - [ ] Explain branch creation and commit process
+  - [ ] Explain branch creation and commit process￼
   - [ ] Establish push procedures
   - [ ] Review quick reference guide
 - [ ] provide notebook review tasks for Jenelle
