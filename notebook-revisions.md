@@ -42,20 +42,20 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 |----------|--------|----------------|-------------|
 | `Stable Diffusion.ipynb` | ⚠️ | Removed some sections that were documentations and not code | 3-4 hours |
 | `Blender.ipynb` | ⚠️ | No code, move to pressbook | 1 hour |
-| `Prompt Generator.ipynb` | ✅ | Broken code blocks have been fixed, no more errors. | Jenelle | 
+| `Prompt Generator.ipynb` | ✅.✅ | Broken code blocks have been fixed, no more errors. | Jenelle | 
 
 ### 🔍 Dataset Exploration & Filtering
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
-| `COMPLETED-image-filter.ipynb` | ✅ | Minor repetition cleanup | Jenelle |
-| `COMPLETED-random-manual-review.ipynb` | ✅ | Ready | Jenelle |
+| `COMPLETED-image-filter.ipynb` | ✅.✅ | Minor repetition cleanup | Jenelle |
+| `COMPLETED-random-manual-review.ipynb` | ✅.✅ | Ready | Jenelle |
 | `COMPLETED-ft-data-prep.ipynb` | ✅ | No output errors. Still need to improve intro, add dataset options | 2 hours |
 
 ### 📈 Visualization & Analysis
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
 | `COMPLETED-close-encounters.ipynb` | ✅.✅ | *One output error has been fixed, but test output pdf is blank(?)* | - |
-| `COMPLETED-matplotlib-visualization.ipynb` | ✅ | No issues/errors| Jenelle |
+| `COMPLETED-matplotlib-visualization.ipynb` | ✅.✅ | No issues/errors| Jenelle |
 | `COMPLETED-random-interactive-image.ipynb` | ✅ | Tested & cleaned the notebook | Jenelle |
 | `COMPLETED-sightings-bar-graph.ipynb` | ✅.✅ | No issues/errors | Jenelle finished adding intro|
 | `COMPLETED-treemap.ipynb` | ✅.✅ | No issues/errors | - |
